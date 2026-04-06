@@ -1,5 +1,7 @@
 
-# AI Behavior & Decision-Making Analysis
+# AI Usage & Behavioral Patterns Analysis (23K+ Real Survey Responses)
+
+Analyzed 23,000+ real responses from the Kaggle Data Science Survey to uncover how experience level, roles, and tools shape AI usage and decision-making.
 
 Understanding how AI and data-science workflows shape behavior, tools, and career paths.
 
@@ -20,6 +22,11 @@ After running `analysis.py`, the project creates:
 - `outputs/03_ide_usage.png`
 - `outputs/04_work_activities.png`
 - `outputs/summary_report.txt`
+- 
+## Data Source
+
+Kaggle: 2018 Data Science & Machine Learning Survey  
+https://www.kaggle.com/datasets/kaggle/kaggle-survey-2018
 
 ## How to Run in PyCharm
 Open the folder in PyCharm, then run these commands in the terminal:
