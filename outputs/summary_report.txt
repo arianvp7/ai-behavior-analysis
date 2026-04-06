@@ -1,0 +1,13 @@
+Kaggle 2018 Survey Analysis Summary
+================================
+
+Rows analyzed: 23859
+Most common role: Student (5253)
+Most common coding-experience level: 1-2 years (5359)
+Most frequently used IDE / notebook: Jupyter/IPython (14010)
+
+Suggested talking points:
+- The dataset shows a broad mix of roles, but data scientists and related roles are highly represented.
+- Many respondents fall in the early-to-mid coding experience range, showing the field includes many developing practitioners.
+- Jupyter-style notebook workflows appear prominently, highlighting the importance of exploratory and interactive tooling.
+- Real-world survey data lets you discuss behavior, tools, and workflow patterns instead of relying on fake sample data.
