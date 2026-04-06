@@ -45,3 +45,10 @@ Built a Python project using real Kaggle survey data to analyze data-science rol
 - Shows Python, pandas, matplotlib, and Streamlit
 - Gives you a clean portfolio piece for internships
 - Lets you discuss real insights instead of fake sample outputs
+
+- ## Sample Visualizations
+
+![Top Roles](outputs/01_top_roles.png)
+![Coding Experience](outputs/02_coding_experience.png)
+![IDE Usage](outputs/03_ide_usage.png)
+![Work Activities](outputs/04_work_activities.png)
